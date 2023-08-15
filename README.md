@@ -1,5 +1,11 @@
 ### Hi there 👋
+My name is Egor and I'm studying frontend developer.
 
+- 📫 You can write to me in discord. Nickkname - "inchanterx"
+- 🌱 Now i know HTML and base CSS (I will study flexbox and grid this month)
+- There will be more here soon. I'm just learning, so don`t be strict!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InchanterX&hide=html&layout=compact)](https://github.com/InchanterX)
 <!--
 **InchanterX/InchanterX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
