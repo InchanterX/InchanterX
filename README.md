@@ -2,7 +2,7 @@
 My name is Egor and I'm studying frontend developer.
 
 - 📫 You can write to me in discord. Nickname - "inchanterx"
-- 🌱 Now I know HTML and base CSS (I will study flexbox and grid this month)
+- 🌱 Now I know HTML, base CSS and flexboxes (I will study grid this month)
 - There will be more here soon. I'm just learning, so don`t be strict!
 
 <h3 align="left">Languages and Tools:</h3>
