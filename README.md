@@ -2,7 +2,7 @@
 My name is Egor and I'm studying frontend developer.
 
 - 📫 You can write to me in discord. Nickname - "inchanterx"
-- 🌱 Now I know HTML, CSS (LESS, SCSS, flexboxes)(I will study grid this month), also I know how to use gulp
+- 🌱 Now I know HTML, CSS (LESS, SCSS), gulp and basic php. I also know UI/UX design, I can use figma and photoshop
 - There will be more here soon. I'm just learning, so don`t be strict!
 
 <h3 align="left">Languages and Tools:</h3>
